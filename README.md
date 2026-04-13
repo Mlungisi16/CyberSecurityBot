@@ -8,7 +8,7 @@ The **CyberSecurity Awareness Bot** is a simple C# console application designed 
 
  Features
 
- **Voice Greeting**
+ Voice Greeting
 
   * Plays a welcome audio (`greeting.wav`) when the application starts
 
