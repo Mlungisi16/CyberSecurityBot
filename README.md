@@ -105,7 +105,7 @@ Phishing is when attackers trick you into giving personal information.
 
 ---
 
- 👨‍💻 Author
+  Author
 
 Developed as a cybersecurity awareness project using C#.
 
